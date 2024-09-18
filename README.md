@@ -47,7 +47,9 @@ This project allows you to control your computer's mouse and draw virtually usin
 
 ## Usage
 
-1. Clone this repository and install the required packages:
+1.**Clone the Repository**:
    ```bash
-   pip install opencv-python mediapipe pyautogui numpy, now use your hand gestures for control and press q to exit
+   git clone https://github.com/saisreekantam/VIRTUAL_MOUSE_USING_COMPUTER_VISION.git
+   cd VIRTUAL_MOUSE_USING_COMPUTER_VISION
+2. now use your hand gestures for control and press q to exit
     
